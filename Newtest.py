@@ -1,2 +1,3 @@
 def testing():
-    print("Hello, All")
+    message = "Hello, All"
+    print(message)
